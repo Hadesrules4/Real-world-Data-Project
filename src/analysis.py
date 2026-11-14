@@ -146,3 +146,5 @@ def run():
     print(json.dumps(metrics, indent=2))
 
 if __name__ == "__main__": run()
+
+# CI trigger: generate real analysis outputs and dashboard screenshots.
